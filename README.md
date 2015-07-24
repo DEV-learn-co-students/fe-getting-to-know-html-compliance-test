@@ -1,10 +1,3 @@
----
-language: html
-tags: html, elements
-type: lecture
-resources: 0
----
-
 ## HTML Fundamentals ~ 12min
 
 <iframe width="640" height="480" src="//www.youtube.com/embed/tuDKQxfiXmY?rel=0" frameborder="0" allowfullscreen></iframe>
