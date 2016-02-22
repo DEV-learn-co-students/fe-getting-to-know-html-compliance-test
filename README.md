@@ -178,11 +178,17 @@ Definition lists display similar to a traditional dictionary allowing us to stat
 <img src="myimage.jpg" alt="Alternate text" title="Display title on hover.">
 ```
 
+Imahe elements `<img>` allow us to link to an image and display it in the browser. The `src` attribute is where we provide the path to our image file. The `alt` attribute is where we provide alternate text for the visually impaired. Also good for search engines. The `title` attribute aloows us to type a phrase that will appear of the user hovers of the image for a period of time.
+
 ### Links
+
+Links allow us to connect our pages and sites to each other. Arguably they give the world wide web its power, by simply allowing one document to lead to the next.
 
 ```html
 <a href="http://example.com">This is a text link</a>
 ```
+
+Anchor link `<a>` accepts an `href` (hypertext reference) attribute points to the location of the page or conetnt we are linking to.
 
 ```html
 <a href="http://example.com">
@@ -190,18 +196,36 @@ Definition lists display similar to a traditional dictionary allowing us to stat
 </a>
 ```
 
+Anchor links can also wrap images as well as text. In fact anything we wrap a `<a>` around becomes a clickable linked item.
+
 ```html
 <a href="mailto:webmaster@example.com">This an email link</a>
 ```
+
+```html
+<a href="tel:555-555-5555">This an phone number link</a>
+```
+
+using special formatting in our href value `mailto:` allows us to trigger email editor or cellular devices `tel:` to dial numbers.
 
 ```html
 <p id="tips">Useful Tips Section</p>
 <a href="#tips">Jump to Useful Tips Section</a>
 ```
 
+We can also create named anchor links that will scroll to content elsewhere in the same page. This is done by giving an `id` attribute to one element, and then setting the `href` of a link to `#id` where the ids match.
+
 ### Relative and Absolute File Paths
 
-...
+#### Relative
+
+`about.html`
+
+#### Absolute
+
+`http://example.com/about.html`
+
+It is important to understand the various ways to link to content in a webpage. It is prefered that you use the relative path which describes the location of a resource wihtin the same website when linking 
 
 ### Validation
 
