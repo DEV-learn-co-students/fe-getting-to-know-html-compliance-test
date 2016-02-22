@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this lesson we will introduce the fundamentals of HTML syntax, document structure, typography, images, and links, as well as how to validate our HTML.
+In this lesson we will introduce the fundamentals of HTML syntax, document structure, typography, images, and links, as well as how to validate our HTML. HTML will act as the structure of our webpages, wrapping our content and describing how the browser should display it. HTML is often described romantically as the unifying language of the web. Along with CSS, and JavaScript, HTML is the life-blood of our webpages and an excellent place to start our code journey.
 
 ## Objectives
 
@@ -39,8 +39,8 @@ All HTML pages have a standardized document structure:
 
 ```html
 <html>
-  <head> 
-    <!-- Meta data for the browser and search engines -->   
+  <head>
+    <!-- Meta data for the browser and search engines -->
   </head>
   <body>
     <!-- Visible content area -->
@@ -48,10 +48,25 @@ All HTML pages have a standardized document structure:
 </html>
 ```
 
+Starting with the `<html>` element that wraps all of our content. This tells the browser that everything in between the starting and ending `<html>...</html>` tags is to be interpreted is HTML code. Nested inside we have the `<head>...</head>` and the `<body>...</body>`. The head contains meta data for the browser and search engines such as: the title of the page, links to other stylesheets and scripts, meta keywords, and descriptions for search engines among others. This content is not something a visitor to our website will see directly. In contrast to that the `<body>` contains all of the visible content we will see for the webpage. This includes text such as headings, paragraphs, and images, links, videos, audio players, maps, forms, and more.
+
+### Doctype
+
+A special element proceeding the document structure is the `<!DOCTYPE>` tag.
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>...</head>
+  <body>...</body>
+</html>
+```
+
+The Doctype tells the browser the version of HTML that it should interpret the document as. In the case of HTML5 you simply state `<!DOCTYPE html>`.
 
 ### Typography
 
-...
+
 
 ### Links
 
