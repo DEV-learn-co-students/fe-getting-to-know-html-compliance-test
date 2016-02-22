@@ -68,99 +68,99 @@ The Doctype tells the browser the version of HTML that it should interpret the d
 
 We are given a range of tags to define the look and importance of our typography. Here are a few:
 
-    #### Headings
+#### Headings
 
-    ```html
-    <h1>Largest Heading</h1>
-    <h2>...</h2>
-    <h3>...</h3>
-    <h4>...</h4>
-    <h5>...</h5>
-    <h6>Smallest Heading</h6>
-    ```
+```html
+<h1>Largest Heading</h1>
+<h2>...</h2>
+<h3>...</h3>
+<h4>...</h4>
+<h5>...</h5>
+<h6>Smallest Heading</h6>
+```
 
-    Headings allow us to creater larger and smaller text and to suggest more importance to certain content than others. `<h1>` is the largest of the headings and also carries the most importance for search engines. `<h2>` to `<h6>` the headings get progressively smaller and hold less importance.
+Headings allow us to creater larger and smaller text and to suggest more importance to certain content than others. `<h1>` is the largest of the headings and also carries the most importance for search engines. `<h2>` to `<h6>` the headings get progressively smaller and hold less importance.
 
-    #### Paragraphs
+#### Paragraphs
 
-    ```html
-    <p>Lorem ipsum dolores</p>
-    ```
+```html
+<p>Lorem ipsum dolores</p>
+```
 
 ...  
 
-    #### Line Break
+#### Line Break
 
-    ```html
-    <br>
-    ```
+```html
+<br>
+```
 
-    #### Horizontal Rule
+#### Horizontal Rule
 
-    ```html
-    <hr>
-    ```
+```html
+<hr>
+```
 
-    #### Preformatted
+#### Preformatted
 
-    ```html
-    <pre>
-      This text
-        is
-       preformatted!
-    </pre>
-    ```
+```html
+<pre>
+  This text
+    is
+   preformatted!
+</pre>
+```
 
-    #### Code
+#### Code
 
-    ```html
-    <code>
-      Some code <html>...</html> displays as code.
-    </code>
-    ```
+```html
+<code>
+  Some code <html>...</html> displays as code.
+</code>
+```
 
-    #### Emphasized (Italic)
+#### Emphasized (Italic)
 
-    ```html
-    <em>This text is italic.</em>
-    ```
+```html
+<em>This text is italic.</em>
+```
 
-    #### Strong (Bold)
+#### Strong (Bold)
 
-    ```html
-    <strong>This text is bold.</strong>
-    ```
+```html
+<strong>This text is bold.</strong>
+```
 
 ### Lists
 
-    #### Ordered List
+#### Ordered List
 
-    ```html
-    <ol>
-      <li>First item</li>
-      <li>Second item</li>
-    </ol>
-    ```
+```html
+<ol>
+  <li>First item</li>
+  <li>Second item</li>
+</ol>
+```
 
-    #### Unordered List
+#### Unordered List
 
-    ```html
-    <ul>
-      <li>First item</li>
-      <li>Second item</li>
-    </ul>
-    ```
+```html
+<ul>
+  <li>First item</li>
+  <li>Second item</li>
+</ul>
+```
 
-    #### Definition List
+#### Definition List
 
-    ```html
-    <dl>
-      <dt>First term</dt>
-      <dd>First definition</dd>
-      <dt>Second term</dt>
-      <dd>Second definition</dd>
-    </dl>
-    ```
+```html
+<dl>
+  <dt>First term</dt>
+  <dd>First definition</dd>
+  <dt>Second term</dt>
+  <dd>Second definition</dd>
+</dl>
+```
 
 ### Images
 
