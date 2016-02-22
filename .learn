@@ -1,8 +1,9 @@
 languages:
   - html
 tags:
-  - html
+  - syntax
+  - document structure
   - elements
 type:
   - lecture
-resources: 0
+resources: 10
