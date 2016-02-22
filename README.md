@@ -81,20 +81,6 @@ We are given a range of tags to define the look and importance of our typography
 
 Headings allow us to creater larger and smaller text and to suggest more importance to certain content than others. `<h1>` is the largest of the headings and also carries the most importance for search engines. `<h2>` to `<h6>` the headings get progressively smaller and hold less importance.
 
-| ```html
-<h1>Largest Heading</h1>
-<h2>...</h2>
-<h3>...</h3>
-<h4>...</h4>
-<h5>...</h5>
-<h6>Smallest Heading</h6>
-``` | # Largest Heading</h1>
-## ...
-### ...
-#### ...
-##### ...
-###### Smallest Heading
-
 #### Paragraphs
 
 ```html
