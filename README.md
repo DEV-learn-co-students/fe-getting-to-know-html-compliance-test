@@ -66,15 +66,136 @@ The Doctype tells the browser the version of HTML that it should interpret the d
 
 ### Typography
 
+We are given a range of tags to define the look and importance of our typography. Here are a few:
 
+    #### Headings
+
+    ```html
+    <h1>Largest Heading</h1>
+    <h2>...</h2>
+    <h3>...</h3>
+    <h4>...</h4>
+    <h5>...</h5>
+    <h6>Smallest Heading</h6>
+    ```
+
+    Headings allow us to creater larger and smaller text and to suggest more importance to certain content than others. `<h1>` is the largest of the headings and also carries the most importance for search engines. `<h2>` to `<h6>` the headings get progressively smaller and hold less importance.
+
+    #### Paragraphs
+
+    ```html
+    <p>Lorem ipsum dolores</p>
+    ```
+
+...  
+
+    #### Line Break
+
+    ```html
+    <br>
+    ```
+
+    #### Horizontal Rule
+
+    ```html
+    <hr>
+    ```
+
+    #### Preformatted
+
+    ```html
+    <pre>
+      This text
+        is
+       preformatted!
+    </pre>
+    ```
+
+    #### Code
+
+    ```html
+    <code>
+      Some code <html>...</html> displays as code.
+    </code>
+    ```
+
+    #### Emphasized (Italic)
+
+    ```html
+    <em>This text is italic.</em>
+    ```
+
+    #### Strong (Bold)
+
+    ```html
+    <strong>This text is bold.</strong>
+    ```
+
+### Lists
+
+    #### Ordered List
+
+    ```html
+    <ol>
+      <li>First item</li>
+      <li>Second item</li>
+    </ol>
+    ```
+
+    #### Unordered List
+
+    ```html
+    <ul>
+      <li>First item</li>
+      <li>Second item</li>
+    </ul>
+    ```
+
+    #### Definition List
+
+    ```html
+    <dl>
+      <dt>First term</dt>
+      <dd>First definition</dd>
+      <dt>Second term</dt>
+      <dd>Second definition</dd>
+    </dl>
+    ```
+
+### Images
+
+```html
+<img src="myimage.jpg" alt="Alternate text" title="Display title on hover.">
+```
 
 ### Links
+
+```html
+<a href="http://example.com">This is a text link</a>
+```
+
+```html
+<a href="http://example.com">
+  <img src="myimage.jpg" alt="Alternate text">
+</a>
+```
+
+```html
+<a href="mailto:webmaster@example.com">This an email link</a>
+```
+
+```html
+<p id="tips">Useful Tips Section</p>
+<a href="#tips">Jump to Useful Tips Section</a>
+```
+
+### Relative and Absolute File Paths
 
 ...
 
 ### Validation
 
-...
+We can validate our code by either providing a link to the code or by pasting the text into the [W3C HTML Validator](https://validator.w3.org/).
 
 ## Summary
 
@@ -88,9 +209,8 @@ The Doctype tells the browser the version of HTML that it should interpret the d
 - [Bonus Slides - Image Compression](https://docs.google.com/presentation/d/1CVHOE65QkP1ioHD0u9Ryh6cIT6DW0YQNyhFP0-OYECc/edit?usp=sharing)
 - [Compress Images In Photoshop](https://www.youtube.com/watch?v=Ut_F7iGlze8)
 - [Compress Images In GIMP](https://www.youtube.com/watch?v=x-3fp4ksoRc)
-- [ISO Lang Codes](http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
-- [What does the Charset Attribute Do?](http://community.spiceworks.com/topic/91624-what-does-charset-utf-8-mean)
 - [HTML Element Lookup Refernce](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [HTML Element Cheatsheet](http://overapi.com/html-dom/)
+- [W3C HTML Validator](https://validator.w3.org/)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-getting-to-know-html' title='HTML Fundamentals ~ 12min'>HTML Fundamentals ~ 12min</a> on Learn.co and start learning to code for free.</p>
