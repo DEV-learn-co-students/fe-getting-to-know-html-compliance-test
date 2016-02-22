@@ -221,11 +221,15 @@ We can also create named anchor links that will scroll to content elsewhere in t
 
 `about.html`
 
+Relative paths describe the location of resources within the same file system.
+
 #### Absolute
 
 `http://example.com/about.html`
 
-It is important to understand the various ways to link to content in a webpage. It is prefered that you use the relative path which describes the location of a resource wihtin the same website when linking 
+Absolute paths describe the location of resources on the entire internet at large.
+
+ It is prefered that you use the relative path when linking to content within your own website. Then use absolute paths when linking to content on other remote websites.
 
 ### Validation
 
