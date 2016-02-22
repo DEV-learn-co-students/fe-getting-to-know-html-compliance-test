@@ -66,7 +66,7 @@ The Doctype tells the browser the version of HTML that it should interpret the d
 
 ### Typography
 
-We are given a range of tags to define the look and importance of our typography. Here are a few:
+We are given a range of tags to define the look and importance of our typography. Here are a few high use typography elements,
 
 #### Headings
 
@@ -87,7 +87,7 @@ Headings allow us to creater larger and smaller text and to suggest more importa
 <p>Lorem ipsum dolores</p>
 ```
 
-...  
+Paragraphs separate blocks of text adding spacing before and after each block.
 
 #### Line Break
 
@@ -95,11 +95,15 @@ Headings allow us to creater larger and smaller text and to suggest more importa
 <br>
 ```
 
+Line breaks add a soft line return for situations where you wish text to appear on the next line down.
+
 #### Horizontal Rule
 
 ```html
 <hr>
 ```
+
+Horizontal rule creates a line across the screen for visually dividing two parts of the page.
 
 #### Preformatted
 
@@ -111,13 +115,7 @@ Headings allow us to creater larger and smaller text and to suggest more importa
 </pre>
 ```
 
-#### Code
-
-```html
-<code>
-  Some code <html>...</html> displays as code.
-</code>
-```
+Preformatted allows us to create a white-space sensitive block of text. This can be useful for surrounding code elements or for writing out poems or expressive text where white-space matters.
 
 #### Emphasized (Italic)
 
@@ -125,13 +123,19 @@ Headings allow us to creater larger and smaller text and to suggest more importa
 <em>This text is italic.</em>
 ```
 
+Emphasized text `<em>` stands out as italic text for situations when we want to call out specific words or phrases.
+
 #### Strong (Bold)
 
 ```html
 <strong>This text is bold.</strong>
 ```
 
+Simmiliar to emphasized we can make text stronger using `<strong>` which makes the text bold.
+
 ### Lists
+
+Lists allow us to group text into a structure that ties their meaning together into a whole.
 
 #### Ordered List
 
@@ -142,6 +146,8 @@ Headings allow us to creater larger and smaller text and to suggest more importa
 </ol>
 ```
 
+Ordered lists appear as numeric lists with numbers identifying each list item.
+
 #### Unordered List
 
 ```html
@@ -150,6 +156,8 @@ Headings allow us to creater larger and smaller text and to suggest more importa
   <li>Second item</li>
 </ul>
 ```
+
+Unordered lists appear as bulleted lists with bullets identifying each list item.
 
 #### Definition List
 
@@ -161,6 +169,8 @@ Headings allow us to creater larger and smaller text and to suggest more importa
   <dd>Second definition</dd>
 </dl>
 ```
+
+Definition lists display similar to a traditional dictionary allowing us to state a term and provide a definition for each corresponding term.
 
 ### Images
 
