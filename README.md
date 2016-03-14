@@ -237,12 +237,12 @@ We can validate our code by either providing a link to the code or by pasting th
 
 ## Summary
 
-- HTML elements wrap our content tellin the browser how we wish to display things.
-- HTML elemtents are written as `<start-tag>content</end-tag>`.
+- HTML elements wrap our content telling the browser how we wish to display things.
+- HTML elements are written as `<start-tag>content</end-tag>`.
 - HTML attributes can be added to the start tag `<start-tag attribute="value">`.
 - HTMLs basic document structure is `<html><head>...</head><body>...</body></html>`.
-- HTML text can be formatting using a variety of tags such as heading, paragraphs, and lists.
-- HTML images can bedefined as `<img src="myimage.jpg" alt="alternate text">`.
+- HTML text can be formatted using a variety of tags such as heading, paragraph, and list.
+- HTML images can be defined as `<img src="myimage.jpg" alt="alternate text">`.
 - HTML links can be defined as `<a href="myfile.html">link text here</a>`.
 - We can validate our HTML code to check for syntax errors.
 
