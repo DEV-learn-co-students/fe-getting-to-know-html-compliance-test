@@ -254,8 +254,10 @@ We can validate our code by either providing a link to the code or by pasting th
 - [Bonus Slides - Image Compression](https://docs.google.com/presentation/d/1CVHOE65QkP1ioHD0u9Ryh6cIT6DW0YQNyhFP0-OYECc/edit?usp=sharing)
 - [Compress Images In Photoshop](https://www.youtube.com/watch?v=Ut_F7iGlze8)
 - [Compress Images In GIMP](https://www.youtube.com/watch?v=x-3fp4ksoRc)
-- [HTML Element Lookup Refernce](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- [HTML Element Lookup Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [HTML Element Cheatsheet](http://overapi.com/html-dom/)
 - [W3C HTML Validator](https://validator.w3.org/)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-getting-to-know-html' title='HTML Fundamentals ~ 12min'>HTML Fundamentals ~ 12min</a> on Learn.co and start learning to code for free.</p>
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-getting-to-know-html'>Getting to Know HTML</a> on Learn.co and start learning to code for free.</p>
