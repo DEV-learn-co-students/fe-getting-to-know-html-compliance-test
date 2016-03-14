@@ -131,7 +131,7 @@ Emphasized text `<em>` stands out as italic text for situations when we want to 
 <strong>This text is bold.</strong>
 ```
 
-Simmiliar to emphasized we can make text stronger using `<strong>` which makes the text bold.
+Similiar to emphasized we can make text stronger using `<strong>` which makes the text bold.
 
 ### Lists
 
