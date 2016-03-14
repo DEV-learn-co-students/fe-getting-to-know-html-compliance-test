@@ -188,7 +188,7 @@ Links allow us to connect our pages and sites to each other. Arguably they give 
 <a href="http://example.com">This is a text link</a>
 ```
 
-Anchor link `<a>` accepts an `href` (hypertext reference) attribute points to the location of the page or conetnt we are linking to.
+Anchor link `<a>` accepts an `href` (hypertext reference) attribute points to the location of the page or content we are linking to.
 
 ```html
 <a href="http://example.com">
