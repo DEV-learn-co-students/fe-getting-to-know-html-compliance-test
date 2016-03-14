@@ -4,7 +4,7 @@
 
 In this lesson we will introduce the fundamentals of HTML syntax, document structure, typography, images, and links, as well as how to validate our HTML. HTML will act as the structure of our webpages, wrapping our content and describing how the browser should display it. HTML is often described romantically as the unifying language of the web. Along with CSS, and JavaScript, HTML is the life-blood of our webpages and an excellent place to start our code journey.
 
-## Objectives
+## What's Covered in This Lesson 
 
 1. HTML Syntax
 2. Document Structure
