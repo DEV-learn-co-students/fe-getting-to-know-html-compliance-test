@@ -178,7 +178,7 @@ Definition lists display similar to a traditional dictionary allowing us to stat
 <img src="myimage.jpg" alt="Alternate text" title="Display title on hover.">
 ```
 
-Imahe elements `<img>` allow us to link to an image and display it in the browser. The `src` attribute is where we provide the path to our image file. The `alt` attribute is where we provide alternate text for the visually impaired. Also good for search engines. The `title` attribute aloows us to type a phrase that will appear of the user hovers of the image for a period of time.
+Image elements `<img>` allow us to link to an image and display it in the browser. The `src` attribute is where we provide the path to our image file. The `alt` attribute is where we provide alternate text for the visually impaired. Also good for search engines. The `title` attribute aloows us to type a phrase that will appear as the user hovers of the image for a period of time.
 
 ### Links
 
