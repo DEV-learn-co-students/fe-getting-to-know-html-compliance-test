@@ -27,7 +27,7 @@ HTML stands for Hyper Text Markup Language. Markup languages surround content in
 <p>You're Learning HTML!</p> 
 ```
 
-Above we can see the `p` element which indicates a paragraph in the browser. The start tag `<p>` indicates the beginning of the paragraph and the ending tag `</p>` defines the end of the paragraph. As you can see tags names are surrounded by `<>` angle brackets. All the content `You're Learning HTML!` in the center is the body of the paragraph. This tells the browser to addd pace before and after the content "You're Learning HTML!".
+Above we can see the `p` element which indicates a paragraph in the browser. The start tag `<p>` indicates the beginning of the paragraph and the ending tag `</p>` defines the end of the paragraph. As you can see tags names are surrounded by `<>` angle brackets. All the content `You're Learning HTML!` in the center is the body of the paragraph. This tells the browser to add space before and after the content "You're Learning HTML!".
 
 There are a few exceptions where elements may just have an opening tag only. We will see a few of these in examples below such as the image element `<img>` but more on that later.
 
