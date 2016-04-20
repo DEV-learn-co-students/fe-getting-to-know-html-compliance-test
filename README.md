@@ -19,10 +19,6 @@ In this lesson we will introduce the fundamentals of HTML syntax, document struc
 
 *Note: Slides for this lecture video are provided in the resources at the bottom of this lesson.*
 
-### Validation
-
-We can validate our code by either providing a link to the code or by pasting the text into the [W3C HTML Validator](https://validator.w3.org/).
-
 ## Summary
 
 - HTML elements wrap our content telling the browser how we wish to display things.
