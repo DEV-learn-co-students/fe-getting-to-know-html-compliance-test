@@ -258,6 +258,4 @@ We can validate our code by either providing a link to the code or by pasting th
 - [HTML Element Cheatsheet](http://overapi.com/html-dom/)
 - [W3C HTML Validator](https://validator.w3.org/)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-getting-to-know-html' title='HTML Fundamentals ~ 12min'>HTML Fundamentals ~ 12min</a> on Learn.co and start learning to code for free.</p>
-
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-getting-to-know-html'>Getting to Know HTML</a> on Learn.co and start learning to code for free.</p>
