@@ -2,9 +2,9 @@
 
 ## Overview
 
-In this lesson we will introduce the fundamentals of HTML syntax, document structure, typography, images, and links, as well as how to validate our HTML. HTML will act as the structure of our webpages, wrapping our content and describing how the browser should display it. HTML is often described romantically as the unifying language of the web. Along with CSS, and JavaScript, HTML is the life-blood of our webpages and an excellent place to start our code journey.
+In this lesson we will introduce the fundamentals of HTML syntax, document structure, typography, images, and links, as well as how to validate our HTML. HTML will act as the structure of our webpages, wrapping our content and describing how the browser should display it. HTML is often described romantically as the unifying language of the web. Along with CSS and JavaScript, HTML is the life-blood of our webpages and an excellent place to start our code journey.
 
-## What's Covered in This Lesson 
+## What's Covered in This Lesson
 
 1. HTML Syntax
 2. Document Structure
@@ -21,13 +21,13 @@ In this lesson we will introduce the fundamentals of HTML syntax, document struc
 
 ## Summary
 
-- HTML elements wrap our content telling the browser how we wish to display things.
+- HTML elements wrap our content and tell the browser how we wish to display things.
 - HTML elements are written as `<start-tag>content</end-tag>`.
 - HTML attributes can be added to the start tag `<start-tag attribute="value">`.
-- HTMLs basic document structure is `<html><head>...</head><body>...</body></html>`.
+- HTML's basic document structure is `<html><head>...</head><body>...</body></html>`.
 - HTML text can be formatted using a variety of tags such as heading, paragraph, and list.
-- HTML images can be defined as `<img src="myimage.jpg" alt="alternate text">`.
-- HTML links can be defined as `<a href="myfile.html">link text here</a>`.
+- HTML images look like `<img src="myimage.jpg" alt="alternate text">`.
+- HTML links look like `<a href="myfile.html">link text here</a>`.
 - We can validate our HTML code to check for syntax errors.
 
 ## Resources
