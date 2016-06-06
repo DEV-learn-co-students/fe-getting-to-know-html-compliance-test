@@ -4,6 +4,7 @@
 
 In this lesson we will introduce the fundamentals of HTML syntax, document structure, typography, images, and links, as well as how to validate our HTML. HTML will act as the structure of our webpages, wrapping our content and describing how the browser should display it. HTML is often described romantically as the unifying language of the web. Along with CSS and JavaScript, HTML is the life-blood of our webpages and an excellent place to start our code journey.
 
+
 ## What's Covered in This Lesson
 
 1. HTML Syntax
@@ -29,6 +30,8 @@ In this lesson we will introduce the fundamentals of HTML syntax, document struc
 - HTML images look like `<img src="myimage.jpg" alt="alternate text">`.
 - HTML links look like `<a href="myfile.html">link text here</a>`.
 - We can validate our HTML code to check for syntax errors.
+
+In the subsequent lessons in this unit, we'll take a closer look at the topics that you've just learned in this video, with a focus on appropriate syntax. 
 
 ## Resources
 
