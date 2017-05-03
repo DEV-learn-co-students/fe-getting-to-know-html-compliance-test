@@ -42,7 +42,7 @@ In the subsequent lessons in this unit, we'll take a closer look at the topics t
 - [Compress Images In Photoshop](https://www.youtube.com/watch?v=Ut_F7iGlze8)
 - [Compress Images In GIMP](https://www.youtube.com/watch?v=x-3fp4ksoRc)
 - [HTML Element Lookup Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-- [HTML Element Cheatsheet](http://overapi.com/html-dom/)
+- [HTML Element Cheatsheet](http://www.simplehtmlguide.com/cheatsheet.php)
 - [W3C HTML Validator](https://validator.w3.org/)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-getting-to-know-html'>Getting to Know HTML</a> on Learn.co and start learning to code for free.</p>
